@@ -15,7 +15,8 @@ This repository contains:
 ## 📂 Folder Structure
 
 Directory structure:
-└── rohitbedse-web-scraping/
+
+└── rohitbedse-web-scraping/<br>
     ├── README.md
     └── Web_Scraping On Travel  Website.ipynb
 
