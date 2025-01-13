@@ -15,10 +15,12 @@ This repository contains:
 ## 📂 Folder Structure
 
 Directory structure:
+<pre>
+└── rohitbedse-web-scraping/
+    ├── README.md
+    └── Web_Scraping On Travel Website.ipynb
+</pre>
 
-└── rohitbedse-web-scraping/<br>
-    ├── README.md<br>
-    └── Web_Scraping On Travel  Website.ipynb
 
 ---
 
