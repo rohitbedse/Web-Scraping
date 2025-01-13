@@ -18,6 +18,8 @@ Directory structure:
 └── rohitbedse-web-scraping/
     └── Web_Scraping On Travel  Website.ipynb
 
+---
+
 ## 🚀 Skills & Tools
 ### Skills:
 - Extracting data from HTML using libraries like BeautifulSoup and lxml.
@@ -33,10 +35,9 @@ Directory structure:
 
 ---
 
-## Goals
+## 📌 Goals
 1. Learn the basics of web scraping with Python.
-2. Handle dynamic websites and JavaScript-rendered content.
-3. Apply scraping techniques in real-world projects.
+2. Handle dynamic websites
 ---
 ## 💡 Usage
 1. Clone the repository:
